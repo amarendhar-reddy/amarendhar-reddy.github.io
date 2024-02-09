@@ -1,7 +1,6 @@
 source 'https://rubygems.org'
 group :jekyll_plugins do
     gem 'listen', '>= 3.0.5', '< 3.2'
-    gem 'jekyll-purger'
     gem 'classifier-reborn'
     gem 'jekyll'
     gem 'jekyll-archives'
