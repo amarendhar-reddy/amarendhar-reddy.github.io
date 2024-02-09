@@ -6,7 +6,7 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: profile_pic.heic
+  image: profile_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>+1 214-714-7903</p>
