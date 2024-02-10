@@ -1,12 +1,6 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - amarendhar-reddy
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - amarendhar-reddy/project-pseudo-mavericks 
+  - amarendhar-reddy/amarendhar-reddy.github.io 

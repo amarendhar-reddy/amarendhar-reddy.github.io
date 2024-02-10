@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Java Full Stack Developer
 
 profile:
   align: right
@@ -10,18 +10,14 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>+1 214-714-7903</p>
-    <p>1901 Knightsbridge Rd</p>
     <p>Dallas, TX 75234</p>
 
 news: true # includes a list of news items
-latest_posts: true # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+latest_posts: false # includes a list of the newest posts
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-Sample biography
-UPDATED again
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a Masters Graduate in Computer Science from University of North Texas, , where I gained a strong foundation in data structures, algorithms, and programming languages. I am passionate about web development and always eager to learn new skills and tools to enhance my performance and deliver innovative solutions. I have multiple certifications in data processing, software engineering, and software development, demonstrating my competence and commitment in the field.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+As a Java Full Stack Developer, I participated in various phases of the software development lifecycle, using Agile methods and attending scrum meetings. I leveraged my expertise in Angular, Spring Boot, SQL Server, and other technologies to design and develop web applications that met the client's needs and expectations. I also implemented server-side logic, executed unit tests, and worked with Jenkins CI/CD tools to ensure quality and efficiency.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
